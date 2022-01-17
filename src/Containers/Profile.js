@@ -62,7 +62,7 @@ class Profile extends Component{
         }))
         return(
             <div className="Profile-container">
-                <img className="Profile-avatar" src={data.avatar_url}></img>
+                <img className="Profile-avatar" src={data.avatar_url} alt="Profile_image"></img>
                 <List title='Profile' items={items}/>
                 <List title='Projects' items={projects}/>
             </div>
