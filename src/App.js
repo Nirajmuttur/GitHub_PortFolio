@@ -1,4 +1,4 @@
-import logo from './github.png';
+import logo from './GitHub-Mark-Light-64px.png';
 import Header from './Components/Header/Header';
 import Profile from './Containers/Profile';
 
